@@ -1,11 +1,4 @@
-# DIPT-3
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
-
-### Developed By:
-**Name:** NEHA S
-### Register No:
-212225100030
-
 ## Aim
 To write a Python program using OpenCV to perform histogram equalization on both grayscale and color images to enhance image contrast and brightness.
 
@@ -62,8 +55,12 @@ Merge the channels and convert the image back to BGR format.
 
 ### Step 11:
 Display original color image, histogram, enhanced image, and enhanced histogram using a 2 × 2 grid.
+
 ---
 ## Program 
+### Developed By:
+### Name: NEHA S
+### Register No: 212225100030
 ```
 import cv2
 import numpy as np
